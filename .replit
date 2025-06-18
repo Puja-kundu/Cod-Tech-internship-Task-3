@@ -1,0 +1,6 @@
+run = "npx http-server"
+modules = ["nodejs-20"]
+
+[[ports]]
+localPort = 8080
+externalPort = 80
